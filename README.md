@@ -1,5 +1,5 @@
 
-# pmta-license
+# check-pmta-license
 Simple check for PowerMTA license expiration check
 
 ## Usage
@@ -10,6 +10,7 @@ It can be also run just as a command line tool to quickly verify the license key
 If check is integrated with some other monitoring tools i.e. Sensu it mean alerts will be handled by that systems base on returned exit code
 
 0 - [OK]
+
 2 - [CRITICAL]
 
 Executing the check from command line with flag `-q|-quiet` will not trigger any alerts, It will just log all to the console. 
