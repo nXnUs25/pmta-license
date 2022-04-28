@@ -79,7 +79,9 @@ There are going to be 2 alerts before the expire date, and continuous alerts aft
 ```
 
 Example command to execute chech and send email alerts.
+
 `./check-pmta-license -e nonus25@other.com,chmm@gmai.com,some.address@gmal.com,some.addr@gmai.com -t 44 -r 20 -f ./license`
+
 Above example will worn 
 
 
