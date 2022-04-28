@@ -95,5 +95,5 @@ To build the binares simply just execute `make` command.
 go fmt
 go build -o check-pmta-license *.go
 ls -l check-pmta-license
--rwxrwxr-x  1 nonus25  staff  3655568 28 Apr 10:20 check-pmta-license
+-rwxrwxr-x  1 nonus25  nonus25  3655568 28 Apr 10:20 check-pmta-license
 ```
